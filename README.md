@@ -24,6 +24,7 @@ CAESAR stands for Cognitive Automated Essay Scoring and Representations (CAESAR)
 - **Inside the Scorer: Mechanistic Evidence on Rubric Control in LLM-Based Automated Essay Scoring from 25 Base Models**
   Chungche Huang, Po-Ya Angela Wang, Shu-Kai Hsieh.
   *PACLIC 40*, Taipei, Taiwan, December 10–12, 2026 (accepted).
+  [Program](https://paclic2026.github.io/program.html). 
   [Code](https://github.com/lopentu/inside-the-scorer-paclic2026)
 
 - **Bridging Performance and Pedagogy: A Corpus-Based Analysis of Sectional Achievement and Learner Backgrounds**
